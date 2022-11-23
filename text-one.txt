@@ -1,0 +1,8 @@
+F:\_code_new\git\hello-world(main -> origin)
+Created new branch [git branch chapter-one]
+F:\_code_new\git\hello-world(main -> origin)
+Changed to chapter-one
+F:\_code_new\git\hello-world(chapter-one)
+
+Created this new file text-one & filled in that text
+git status
