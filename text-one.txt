@@ -6,3 +6,5 @@ F:\_code_new\git\hello-world(chapter-one)
 
 Created this new file text-one & filled in that text
 git status
+git add .
+git commit -m "After creating new branch and new file"
